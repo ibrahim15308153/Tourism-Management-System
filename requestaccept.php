@@ -1,0 +1,1 @@
+<?php if (isset(accept) ) echo "Request accepted";?>
